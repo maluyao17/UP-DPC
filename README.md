@@ -8,7 +8,7 @@ MNIST-2D
 * m=2
 * K=10
 
-![pace1](figure\pace1.png)
+![pace1](./figure/pace1.png)
 
 ## 2 Samples
 
